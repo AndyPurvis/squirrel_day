@@ -27,7 +27,7 @@ knitr::opts_chunk$set(echo = TRUE)
 #It stays in R until I end it. This is therefore an R chunk (technical term)
 #Press the green arrow to the right to run the R code
 
-print("Hello world!")
+print("Hello Andy!")
 ```
 ```{r}
 str(iris)
